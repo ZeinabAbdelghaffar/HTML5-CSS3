@@ -8,7 +8,8 @@ Implement the functionality of all video controls in `Part1.html` in demos.
 ### Instructions
 1. Open `Part1.html` in a web browser.
 2. Use the provided controls to interact with the video.
-3. Test each control (Play, Pause, Stop, Rewind, Fast Forward, Volume, Mute, Speed, Time Navigation).
+3. Import Your video instead of my src.
+4. Test each control (Play, Stop, Rewind, Fast Forward, Volume, Mute, Speed, Time Navigation).
 ### Files
 - Part1.html
 - Part1.js
