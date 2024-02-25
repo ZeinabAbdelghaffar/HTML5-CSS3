@@ -1,6 +1,6 @@
 # HTML5 & CSS3 
 # Lab 1
-![HTML5 & CSS3](https://nafsadh.files.wordpress.com/2011/05/html5-and-css3.jpg)
+![HTML5 & CSS3](https://www.mu.my/files/uploads/mu-html-css-training.png)
 ## Part 1: Video Controls Implementation
 ![image](https://github.com/ZeinabAbdelghaffar/HTML5-CSS3/assets/87963230/b0a6a2c8-32ff-40d2-a951-2d40ac9a8571)
 ### Description
