@@ -1,6 +1,6 @@
 # HTML5 & CSS3 
 # Lab 1
-![HTML5 & CSS3](https://www.mu.my/files/uploads/mu-html-css-training.png)
+![HTML5 & CSS3](https://blog.4linux.com.br/wp-content/uploads/2018/03/Melhor-Curso-de-HTML5-e-CSS3-1900x946_c.png)
 ## Part 1: Video Controls Implementation
 ![image](https://github.com/ZeinabAbdelghaffar/HTML5-CSS3/assets/87963230/b0a6a2c8-32ff-40d2-a951-2d40ac9a8571)
 ### Description
