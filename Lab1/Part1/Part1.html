@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Demos</title>
+    <link rel="stylesheet" href="Part1.css">
+</head>
+<body>
+    <h1>Video Demos (All controls)</h1>
+    <video id="videoPlayer" width="640" height="360" controls>
+        <source src="BigBuckBunny.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <br>
+    <label for="timeRange">Time:</label>
+    <input type="range" id="timeRange" min="0" step="1">
+    <br>
+    <button id="playPauseBtn">Play</button>
+    <button id="stopBtn">Stop</button>
+    <button id="rewindBtn"><<</button>
+    <button id="goToBeginningBtn"><</button>
+    <button id="goToEndBtn">></button>
+    <button id="fastForwardBtn">>></button>
+    <br>
+    <label for="volumeRange">Volume:</label>
+    <input type="range" id="volumeRange" min="0" max="1" step="0.1" value="1">
+    <button id="muteUnmuteBtn">Mute</button>
+    <br>
+    <label for="speedRange">Speed:</label>
+    <input type="range" id="speedRange" min="0.5" max="2" step="0.1" value="1">
+    <script src="Part1.js"></script>
+</body>
+</html>
