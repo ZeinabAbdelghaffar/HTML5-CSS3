@@ -11,4 +11,4 @@ function updateColor() {
 }
 redRange.addEventListener('input', updateColor);
 greenRange.addEventListener('input', updateColor);
-blueRange.addEventListener('input', updateColor);x
+blueRange.addEventListener('input', updateColor);
