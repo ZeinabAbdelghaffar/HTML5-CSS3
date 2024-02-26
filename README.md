@@ -26,7 +26,7 @@ Implement a text color range using HTML, CSS, and JavaScript.
 - Part2.html
 - Part2.js
 ---
-# Lab 1
+# Lab 2
 ## Part 1: CSS  Canvas and Overlay Effect
 ![image](https://github.com/ZeinabAbdelghaffar/HTML5-CSS3/assets/87963230/1219eb06-a534-4d7a-b66f-55291ac90c3a)
 ### Description
@@ -35,4 +35,17 @@ This project demonstrates a simple HTML and CSS layout with two rectangular divs
 - Part1.html
 - Part1.js
 - Part1.css
+---
+## Part 2: Canvas Drawing with Radial Gradients
+![image](https://github.com/ZeinabAbdelghaffar/HTML5-CSS3/assets/87963230/6daa4225-caf9-4848-9f7a-337b3f113ed5)
+### Description
+Implement a canvas drawing using radial gradients and text in the center.
+### Instructions
+1. Open `Part2.html` in a web browser.
+2. View the canvas with the drawn shapes and text.
+3. Modify the JavaScript (`Part2.js`) to change the colors or shapes if desired.
+### Files
+- `Part2.html`
+- `Part2.css`
+- `Part2.js`
 ---
