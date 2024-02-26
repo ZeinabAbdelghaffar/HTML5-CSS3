@@ -49,3 +49,15 @@ Implement a canvas drawing using radial gradients and text in the center.
 - `Part2.css`
 - `Part2.js`
 ---
+## Part 3: Pythagoras Theorem Example
+![image](https://github.com/ZeinabAbdelghaffar/HTML5-CSS3/assets/87963230/9bd56fdc-7ea2-49aa-b760-5a19e51fbcc9)
+### Description
+This project demonstrates the Pythagoras theorem using SVG for visual representation and MathML for the equation.
+### Instructions
+1. Open `Part3.html` in a web browser.
+2. View the SVG triangle with labeled sides 'a', 'b', and 'c', and the theorem equation in MathML.
+3. Explore the project to understand how the theorem is represented visually and mathematically.
+### Files
+- `Part3.html`: Contains the HTML and SVG code for displaying the triangle and theorem equation.
+- `Part3.css`: Contains the CSS styles for the HTML elements.
+---
