@@ -61,3 +61,15 @@ This project demonstrates the Pythagoras theorem using SVG for visual representa
 - `Part3.html`: Contains the HTML and SVG code for displaying the triangle and theorem equation.
 - `Part3.css`: Contains the CSS styles for the HTML elements.
 ---
+## Part 4: Animated Diagonal Red Line
+![image](https://github.com/ZeinabAbdelghaffar/HTML5-CSS3/assets/87963230/c5efea4e-9cfc-4dd6-8ce7-a2c51499927d)
+![image](https://github.com/ZeinabAbdelghaffar/HTML5-CSS3/assets/87963230/54401122-fa01-48c5-ac1c-c6dc1eafc67d)
+### Description
+This project demonstrates an animated diagonal red line using HTML5 Canvas and JavaScript.
+### Instructions
+1. Open `Part4.html` in a web browser to view the animation.
+### Files
+- `Part4.html`: HTML file containing the canvas element and script reference.
+- `Part4.css`: CSS file for styling the canvas.
+- `Part4.js`: JavaScript file for animating the diagonal red line.
+---
