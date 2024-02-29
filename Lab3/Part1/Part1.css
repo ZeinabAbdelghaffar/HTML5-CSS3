@@ -1,0 +1,19 @@
+.form-container {
+  border: 1px solid #232323;
+  padding: 20px;
+}
+.form-group input[type="text"],
+.form-group input[type="email"] {
+  width: 250px;
+  height: 10px;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+.error {
+  border: 1px solid red;
+}
+.error-message {
+  display: none;
+  color: gray;
+  font-size: 16px;
+}
