@@ -73,3 +73,18 @@ This project demonstrates an animated diagonal red line using HTML5 Canvas and J
 - `Part4.css`: CSS file for styling the canvas.
 - `Part4.js`: JavaScript file for animating the diagonal red line.
 ---
+# Lab 3
+## Part 1: Change Email Address
+![image](https://github.com/ZeinabAbdelghaffar/HTML5-CSS3/assets/87963230/198d86af-35ca-4262-a57e-9be8a4578435)
+### Files
+- `Part1.html`
+- `Part1.css`
+- `Part1.js`
+## Part 2: Hover to Blink
+![image](https://github.com/ZeinabAbdelghaffar/HTML5-CSS3/assets/87963230/65c0d8c3-3e1d-4e81-8985-2103ae9ecc5a)
+- `Part2.html`
+- `Part2.css`
+## Part 3: Ace of spades card
+![image](https://github.com/ZeinabAbdelghaffar/HTML5-CSS3/assets/87963230/a2d2113d-e50c-4520-bdcd-34b215283daf)
+- `Part3.html`
+- `Part3.css`
